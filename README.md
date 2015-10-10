@@ -1,6 +1,6 @@
 # LouvainSharp
 
-Blondel et al. invented the very popular "Louvain method" for community detection [1]. This library implements their algorithm in C#.
+Blondel et al. invented the very popular "Louvain method" for community detection [1]. This library implements their algorithm in C#. Moreover, the library is parallelized using plinq to maximize speed.
 
 The use of the library is illustrated with the help of a test project. The library also allows construction of the full dendogram.
 
